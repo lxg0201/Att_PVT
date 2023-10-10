@@ -1,6 +1,9 @@
 # Att_PVT
 
-train EOL
+train 
+
 python -W ignore Train.py
+
 test
+
 python -W ignore Test.py
