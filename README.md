@@ -1,9 +1,9 @@
 # Att_PVT
 
-for train
+train
 
 python -W ignore Train.py
 
-for test
+test
 
 python -W ignore Test.py
